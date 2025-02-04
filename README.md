@@ -1,16 +1,14 @@
-## Hi there 👋
+# waimea-jrwilliams
+im a student at waimea college
 
-<!--
-**waimea-jrwilliams/waimea-jrwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Top ten baddies
+- 1 nami
+- 2 Taine smith
+- 3 Mitsuri
+- 4 Boa hancock
+- 5 Shinobu
+- 6 Akari Watanabe
+- 7 Makima
+- 8 Cristano Ronaldo
+- 9 Ryan Renolds
+- 10 Shirahosi
